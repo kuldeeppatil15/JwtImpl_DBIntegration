@@ -34,3 +34,7 @@ JWT Flow
 - Client stores token
 - Token sent in Authorization header
 - JWT filter validates token
+
+
+What Next?
+-PHASE 4: Advanced + Industry-Level Security
